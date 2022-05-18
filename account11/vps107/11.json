@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sunlit-arcade-350016",
+  "private_key_id": "ea105be5ed8ef3ca4460e57bf8d807439bc02b55",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDB30MZaavK4AZQ\nYor8l69hUWd+nEGleKFXzgU17LcgIwGPLhyvw3oGQjmr8S+7DW4Mi6HsYlfuWDF8\nD1cwzj0N4KGx+IG9CVjWKnmZJ17c1EXbycQPijPL2AlIvMaBSpgrTEZqsJm6dsj7\nDdXZnsaEGANRt4qWc0QFVwyzkW5WAR9deu3fC0eRPP9nWrVGiT2bJtxBzSCaufYg\nFI9tyKx0cHFcdvrNrYVz9nfmgZ5IMtAvVQLDI7NXgmnVZAWxvxDaNf/RxKtKzKS5\n3kUERzFJ8y+dGdVhuZTZJiWy9EV9zsdHoAzDAcBHNT3rd33qBFt+MLvv468wr4m/\nrZ7JVNTvAgMBAAECggEAB/mvQPRf5NCicdwb65gx1scKguLasHvt5zbKcBV00xWd\nks5Kz9AyzN8ckD4zwHYk+M8lshu5kkx+fKQE6jURvehnvnKCo8wmo2jL58j+1gbF\neO0r65e72b7hYuShJeBzshRJMUpiiJEqY2mGSpWFhRmXyVzLjrTfL3kNRLXO3CrN\nUrRE6kr707irFu6p+X5H6e1H/B6P74mqvFeF89CXoY03FatKs8ame3AFbiujqAJ8\nDKXDHhMUe/RWFWHEadK55q8Wrzg5EPFWZPXXg81LdD3cwQZF7mieNDRFGSkAJRG4\n7hUzQZknaP8ZIKnh+uAmmNOrF87EcwcIPYDVKA3NgQKBgQDiBNTkH87oQ17W1Dmy\niQ2wKiAKKjvbAO8HXZ6RfEZKa4wHJdFkN/dTUEvozFmukYf9aOjR/OoPNbULQSGR\nz8vqCX3U2y50d5NEuHW5LvO3AldPscm3ce1rzEWRmdXX3jb1lWUUHhzN9hgD0WCf\nRAYUSJYmq+bjt9yZKsFNX3aTiQKBgQDblsnHCO5OtwgNQ/Wf+LXpVrSY/Fu2NV4W\ncz5R8mg6VGV+czFT0x1LAmJPdrsiQ2DAoES2G3n3yNiSEl/oht/OkA5B6cbN4jBS\nfljtq9k+4bEM2AjPP7Knc/Q0oIQYugDXCD9m6BV3z1tQ6fIn4c2FaEjt0FhOuE2x\nGcJI+SjutwKBgQCUZD+yFwAtli3qNiQ7h6gpBT9L7TanLxHAcELvmfw8WCfzeWzk\ns6n6VTnBeolXB82VHw/c7oRtwAFBhl2X8iobWmf3HIB/jxJth/4iuyTf/vV8KWoa\nuv36TH9QfQPdWtQSoSdf8fVPdEeIGiup5WtoXc/XS/2nfMuk9GE9f3PGoQKBgQDa\nDssg00WS9T8RrULlMN20cV217iREtIpSUO66AbZu9hAzmcCKNUMJkbx+nLEIPVB+\n+KhDDtX3sYMeyxBioEzvmy4NVlENcmf6A23b1qNNRmHDF2ToKaEHmKYQ/LUwuMTM\nxGvxjNaEu2061Jab9CdbK0wAnLyUr4C3NZUxUfvL0QKBgFJzeSRCQYITy994jcXk\nsxZnIPaPzk6jRjNQpE4V/rgVqtGR+A1xhTqbNRU3EMyzsxhmbvA8No6LB6uBk7Wj\nU0aeMk+jO74s14E9P/M+8LVinT+oFdwFv30m+8yVWbO/AH3T0EXkOUA+ozucTjfd\nhjLX0AAFMHYXvDGNYVZezgz+\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-lwnuz7v63p8ozu0juf4wk9en0o@sunlit-arcade-350016.iam.gserviceaccount.com",
+  "client_id": "101450575361456136429",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-lwnuz7v63p8ozu0juf4wk9en0o%40sunlit-arcade-350016.iam.gserviceaccount.com"
+}

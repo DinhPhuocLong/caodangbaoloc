@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "data-rookery-350016",
+  "private_key_id": "c67a2e6edf82f0c6c770140b103edb3688356369",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCUHq/z7YdEMsgi\njADmx0gmwLk5UN+nSQExE0TM8H1IH5AcIh48Wqq76t72oc/iBhvcWAA9eqM+PRMp\nSro+MJ3ByWDC6X6r9/TFblB31gppMg+wzbZA6A0m3d++ugoLhkQmrMp4/eU78mfo\nheoPASwOoDCeRs50w6ABzacpM2b4qA4m/tphRzyKOTFbBgRQu9HACPZO8zSQ4fpA\nX13rkuvxCU3CVlD4DB8iqBjywGCm4bhkGzHrI22ea4V2uJLh4ay+Xlsum0FybElH\nXKlaRxi6c05BtqTX+fqZfTsm5IzcxcETxZB5Rzpf1EQijsgigaKrdi/vpooHnWRU\nEjZAgoyXAgMBAAECggEAB5DPtPpve9TKMzWKgD8ymMQkUeCnI+DPPkX5MCyigZIX\nJtC5UaTh7qpPDDL0rttYBfe6v2kpuG6fMW8/Nxj9nd3e4uXRUhBewMzjMFPPAVOM\nyJ+hTQxtS4xutsvC4pbPmVgfGXICiP7XPuHENFL/gJm/Ef6U4hLx89Wg0bJt8opz\nDvB7zApaLzIMC/+dxRUYhNMKP2/rTAAcisZd6UD/uqT4Jz1w+fbV44nC0F9CgRNY\n6VQekymVlKmmJlzr3GV298xVf0r3v790wyyyfuc7ibfSyDzS8EcAjQ6OlY6Rjms6\ncHPdmkMgzeBc6woxjqjcPOt7UrfMVX3EShtija0NDQKBgQDNSDmBNvl8N2by6kmr\nL/lu2FHQ1/2/LeELVWkS0H/vFrdbDkHiHlhdJvtzzWIyQu/G6WAth1/UDDOzesDD\nkYKuAFS0iy9dbdkbJOAm+zroAD5zePjRpwqqW+CueBrTCv3iSo12zURfoDOwBLhg\n9WQFdTzm0KHHeITk2078jUMVxQKBgQC4twn3baqwfVLbNen7stY5TxEdF6iBvlwq\nKAjJPfQhoFY/AmvTzfpHZ0Nje2WIQtfAaEJsaZBhnF8kib9HFnRhVjMnfS/HNWN1\ng5zYXBX7z3okFKxMeQRbcJLnJNqKrHBulViFferWFU4AVgm/oXqJ/sM6WKIacd/i\njgJhp1kaqwKBgAZgnAi7oHyPbA9X3/oFf4ZGCiSm0SdDUZ58hMsk1xSibAfUJY/U\nyYH7WAx88PQGyFQxo99GOV/pESIeSibJOnoVYIxLVqlcZEZHmv8bBvV2LHqB45j/\ny4EHYa+J46tyx/hjwIlUTy95VqG9Q80fUoAo6D9zc9Myl05U0dteuBrRAoGARloo\nqJ2TUk8ZPLanHJ97qi4sJXl6S5g2QDQpTISVNC1+S9dfPDeKaKGy7/PysthKllTf\nX61BOXw2XJM+UBQEVYJgT10F0ojKDdsH5PwFv3fBXHanPSUmfLE+sly+A+0zkVq+\ncXGI/Or2X3hllCArrN1kfBd//jR7Ai32SD1V2asCgYEAxb7Ghsi6VDtsBUx8FsHj\nlXBrvNFyBREvsOFnFI0Fu2+SEUmWbo5/afpGANkayuns0ZFIIpNX6e1a6nUVVwFQ\nH22O050eb2QP6prt9nAkNo0X9QesVheWK6BzfcabiJnvdH01mzX8eA3sE2Og3abm\ndNdGJXaijpO+SQ+txGxgacY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-a12m4s6oy82h4l3pr-3mvn8s4l@data-rookery-350016.iam.gserviceaccount.com",
+  "client_id": "106112244243375059216",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-a12m4s6oy82h4l3pr-3mvn8s4l%40data-rookery-350016.iam.gserviceaccount.com"
+}
